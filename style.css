@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background:url(background.jpg) no-repeat;
+    background: #fff;
     background-size: cover;
     background-position: center;
 
@@ -46,7 +46,7 @@ header {
 }
 
 .navigation a::after {
-    content:'';
+    content: '';
     position: absolute;
     left: 0;
     bottom: -6px;
